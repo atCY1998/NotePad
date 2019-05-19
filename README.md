@@ -22,7 +22,7 @@ This is an AndroidStudio rebuild of google SDK sample NotePad
 
 1.显示时间戳
 
-![images](https://github.com/atCY1998/NotePad/blob/master/images/bgcolor.PNG)
+![images](https://github.com/atCY1998/NotePad/blob/master/images/main.PNG)
 
 2.标题搜索
 
